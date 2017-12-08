@@ -3,4 +3,4 @@
 * avacado
 * onion
 * salt
-* lime
+* limes
