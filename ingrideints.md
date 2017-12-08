@@ -5,3 +5,4 @@
 * salt
 * lemon
 * Garlic
+* sugar
