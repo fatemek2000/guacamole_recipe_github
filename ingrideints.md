@@ -4,3 +4,4 @@
 * onion
 * salt
 * lemon
+* Garlic
