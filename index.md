@@ -1,4 +1,4 @@
 # Guacomole recipe
 
-- list of ingredients
-- Instructions
+- [list of ingredients](ingrediants.md)
+- [Instructions](instruction.md)
