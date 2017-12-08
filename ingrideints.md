@@ -5,3 +5,5 @@
 * salt
 * lemon
 * black pepper
+* Garlic
+* cilentro
