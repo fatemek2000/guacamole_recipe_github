@@ -5,4 +5,4 @@
 * salt
 * lemon
 * Garlic
-* sugar
+* cilentro
