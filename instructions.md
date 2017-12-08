@@ -1,7 +1,7 @@
 # Instructions
 
-* Chop avocados
-* Chop onion
-* Squeeze lime
+* Chop *avocados*
+* Chop *onion*
+* Squeeze *lime*
 * Add salt
-* Mix and squash very well
+* Mix and squash **very well**
