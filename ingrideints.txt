@@ -1,5 +1,4 @@
 avacado
 onion
 salt
-tomato
 lemon
